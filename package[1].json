@@ -1,0 +1,12 @@
+{
+  "name": "neon-pulse-bot",
+  "version": "1.0.0",
+  "description": "NEON PULSE Telegram Statistics Bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
